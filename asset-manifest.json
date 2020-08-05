@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emoji-family/static/css/main.888d9f19.chunk.css",
+    "main.js": "/emoji-family/static/js/main.155fce36.chunk.js",
+    "main.js.map": "/emoji-family/static/js/main.155fce36.chunk.js.map",
+    "runtime-main.js": "/emoji-family/static/js/runtime-main.008301bb.js",
+    "runtime-main.js.map": "/emoji-family/static/js/runtime-main.008301bb.js.map",
+    "static/js/2.efb03ba1.chunk.js": "/emoji-family/static/js/2.efb03ba1.chunk.js",
+    "static/js/2.efb03ba1.chunk.js.map": "/emoji-family/static/js/2.efb03ba1.chunk.js.map",
+    "index.html": "/emoji-family/index.html",
+    "precache-manifest.2b5628200b010bb367a0926e73ec2395.js": "/emoji-family/precache-manifest.2b5628200b010bb367a0926e73ec2395.js",
+    "service-worker.js": "/emoji-family/service-worker.js",
+    "static/css/main.888d9f19.chunk.css.map": "/emoji-family/static/css/main.888d9f19.chunk.css.map",
+    "static/js/2.efb03ba1.chunk.js.LICENSE.txt": "/emoji-family/static/js/2.efb03ba1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.008301bb.js",
+    "static/js/2.efb03ba1.chunk.js",
+    "static/css/main.888d9f19.chunk.css",
+    "static/js/main.155fce36.chunk.js"
+  ]
+}
